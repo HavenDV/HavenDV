@@ -30,6 +30,9 @@ and this to WinUI 3 projects:
 </PropertyGroup>
 ```
 
+The first time you use it, you need to select UWP from the dropdown on the top left:  
+<img width="184" alt="image" src="https://user-images.githubusercontent.com/3002068/153543386-c816cb56-908b-4144-9b99-5d48cd7af131.png">
+
 ### Community Toolkit Controls
 In order to use the Community Toolkit Controls, I create a file with the following content:
 ```cs
