@@ -1,4 +1,4 @@
-# C
+# Using the Visual Designer in a WinUI Application
 You can create a separate UWP project and use shared project for .xaml and .cs and some #ifdef. 
 Then you will have access to a visual designer, while the application will be built under WindowsAppSDK WinUI3.
 You can view the project structure and approaches to organize this here: https://github.com/HavenDV/ratbuddyssey
@@ -77,3 +77,8 @@ public partial class UniformGrid : Microsoft.Toolkit.Uwp.UI.Controls.UniformGrid
 }
 #endif
 ```
+
+Example apps:
+https://github.com/HavenDV/H.OxyPlot/tree/main/src/apps
+https://github.com/HavenDV/ratbuddyssey/tree/master/src/apps
+https://github.com/HavenDV/H.ReactiveUI.CommonInteractions/tree/master/src/apps
