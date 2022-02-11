@@ -91,7 +91,7 @@ public partial class UniformGrid : Microsoft.Toolkit.Uwp.UI.Controls.UniformGrid
 ### Known limitations
 You can't use `InfoBadge`: it is in WinUI 2.x and not in WinUI 3
 
-Example apps:
+### Example apps
 - https://github.com/HavenDV/H.OxyPlot/tree/main/src/apps  
 - https://github.com/HavenDV/ratbuddyssey/tree/master/src/apps  
 - https://github.com/HavenDV/H.ReactiveUI.CommonInteractions/tree/master/src/apps  
