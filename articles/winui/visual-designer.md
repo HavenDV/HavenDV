@@ -79,6 +79,6 @@ public partial class UniformGrid : Microsoft.Toolkit.Uwp.UI.Controls.UniformGrid
 ```
 
 Example apps:
-https://github.com/HavenDV/H.OxyPlot/tree/main/src/apps
-https://github.com/HavenDV/ratbuddyssey/tree/master/src/apps
-https://github.com/HavenDV/H.ReactiveUI.CommonInteractions/tree/master/src/apps
+- https://github.com/HavenDV/H.OxyPlot/tree/main/src/apps  
+- https://github.com/HavenDV/ratbuddyssey/tree/master/src/apps  
+- https://github.com/HavenDV/H.ReactiveUI.CommonInteractions/tree/master/src/apps  
