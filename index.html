@@ -1,15 +1,40 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Визитка</title>
+    <title>Business Card</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <h1>Имя Фамилия</h1>
-    <p>Разработчик программного обеспечения</p>
-    <p><a href="https://github.com/yourprofile">GitHub</a></p>
-    <p><a href="https://linkedin.com/in/yourprofile">LinkedIn</a></p>
-    <p><a href="mailto:youremail@example.com">Email</a></p>
+<body class="bg-gray-900 flex items-center justify-center min-h-screen">
+
+    <div class="bg-white rounded-lg shadow-lg p-8 max-w-sm text-center">
+        <h1 class="text-3xl font-bold text-gray-800 mb-4">Your Name</h1>
+        <p class="text-lg text-gray-600 mb-4">Software Developer</p>
+
+        <div class="flex justify-center space-x-4 mb-6">
+            <a href="https://github.com/HavenDV" target="_blank" class="text-gray-800 hover:text-blue-500">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0C5.373 0 0 5.373 0 12c0 5.302 3.438 9.8 8.205 11.387.599.111.793-.26.793-.577v-2.234c-3.338.726-4.033-1.615-4.033-1.615-.546-1.387-1.333-1.758-1.333-1.758-1.089-.744.083-.729.083-.729 1.205.084 1.839 1.239 1.839 1.239 1.07 1.833 2.808 1.303 3.493.996.107-.774.419-1.303.763-1.603-2.665-.302-5.466-1.333-5.466-5.93 0-1.31.469-2.381 1.236-3.222-.124-.303-.535-1.523.117-3.176 0 0 1.008-.323 3.3 1.231a11.51 11.51 0 013.003-.404c1.02.005 2.047.138 3.003.404 2.292-1.554 3.297-1.231 3.297-1.231.653 1.653.243 2.873.12 3.176.77.841 1.236 1.913 1.236 3.222 0 4.61-2.807 5.624-5.479 5.92.431.372.815 1.104.815 2.222v3.293c0 .32.192.694.801.576C20.565 21.795 24 17.297 24 12c0-6.627-5.373-12-12-12z"/>
+                </svg>
+            </a>
+
+            <a href="https://linkedin.com/in/HavenDV" target="_blank" class="text-gray-800 hover:text-blue-500">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.761 0 5-2.239 5-5v-14c0-2.761-2.239-5-5-5zm-11 19h-3v-9h3v9zm-1.5-10.216c-.966 0-1.75-.784-1.75-1.75s.784-1.75 1.75-1.75 1.75.784 1.75 1.75-.784 1.75-1.75 1.75zm13.5 10.216h-3v-4.798c0-1.144-.021-2.615-1.593-2.615-1.594 0-1.839 1.246-1.839 2.532v4.881h-3v-9h2.839v1.229h.04c.395-.747 1.359-1.534 2.799-1.534 2.994 0 3.548 1.971 3.548 4.531v4.774z"/>
+                </svg>
+            </a>
+
+            <a href="mailto:youremail@example.com" class="text-gray-800 hover:text-blue-500">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 13.5l-11-7.499v13.999c0 .553.447 1 .999 1h20.002c.552 0 .999-.447.999-1v-13.999l-11 7.499zm11-10.5c0-.553-.447-1-1-1h-20c-.552 0-1 .447-1 1v.217l11 7.498 11-7.498v-.217z"/>
+                </svg>
+            </a>
+        </div>
+
+        <p class="text-sm text-gray-500">© 2024 Your Name</p>
+    </div>
+
 </body>
 </html>
