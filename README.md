@@ -4,7 +4,7 @@ Independent software engineer based in Dubai, working across AI, .NET, Swift, an
 
 ## Currently Building: Advantage
 
-I am building [Advantage](https://advantage.onl), a self-funded personal AI and automation system connecting voice, context, and useful actions across Apple Watch, iPhone, and Mac.
+I am building [Advantage](https://advi.cc), a self-funded personal AI and automation system connecting voice, context, and useful actions across Apple Watch, iPhone, and Mac.
 
 My current work spans:
 
@@ -15,7 +15,7 @@ My current work spans:
 
 The goal is a personal layer that helps move from intention to action, beyond an isolated chat window. Advantage is actively being developed; its source code remains private.
 
-**Website:** [advantage.onl](https://advantage.onl)
+**Website:** [advi.cc](https://advi.cc)
 
 ## Open Source
 
@@ -25,6 +25,6 @@ I also build [AutoSDK](https://github.com/tryAGI/AutoSDK), a .NET SDK generator,
 
 [![HavenDV's github stats](https://github-readme-stats-sooty-omega.vercel.app/api?username=HavenDV&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AI Code Usage](https://api.advantage.onl/public/badge/code-usage.svg?name=Konstantin)](https://api.advantage.onl/public/badge/code-usage.svg?name=Konstantin)
+[![AI Code Usage](https://api.advi.cc/public/badge/code-usage.svg?name=Konstantin)](https://api.advi.cc/public/badge/code-usage.svg?name=Konstantin)
                                                                                                                                       
-[![Combined Code Activity](https://api.advantage.onl/public/badge/code-activity.svg?name=Konstantin)](https://api.advantage.onl/public/badge/code-activity.svg?name=Konstantin)
+[![Combined Code Activity](https://api.advi.cc/public/badge/code-activity.svg?name=Konstantin)](https://api.advi.cc/public/badge/code-activity.svg?name=Konstantin)
