@@ -4,6 +4,8 @@ Independent software engineer based in Dubai, working across AI, .NET, Swift, an
 
 ## Currently Building: Advantage
 
+[![Advantage — your voice, in control. Voice-first AI assistant on Watch, iPhone, Mac, Windows and Web.](assets/advantage-banner.jpg)](https://advi.cc)
+
 I am building [Advantage](https://advi.cc), a self-funded personal AI and automation system connecting voice, context, and useful actions across Apple Watch, iPhone, and Mac.
 
 My current work spans:
